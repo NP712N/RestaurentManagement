@@ -1,0 +1,17 @@
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csprojResolveAssemblyReference.cache
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Login.resources
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.Cache
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.TableManager.resources
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.AccountProfile.resources
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Admin.resources
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\EntityFramework.dll
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\EntityFramework.xml
+D:\Code\C#\Project\CoffeeManager\CoffeeManager\CoffeeManager\bin\Debug\EntityFramework.SqlServer.xml
